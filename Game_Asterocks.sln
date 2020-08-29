@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asterocks", "Asterocks\Asterocks.csproj", "{FBB81B67-EC5D-41AE-9747-94E888BB456E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{D29DC2D6-6287-41CA-A091-158BB48D283A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB81B67-EC5D-41AE-9747-94E888BB456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB81B67-EC5D-41AE-9747-94E888BB456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB81B67-EC5D-41AE-9747-94E888BB456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB81B67-EC5D-41AE-9747-94E888BB456E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29DC2D6-6287-41CA-A091-158BB48D283A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29DC2D6-6287-41CA-A091-158BB48D283A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29DC2D6-6287-41CA-A091-158BB48D283A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29DC2D6-6287-41CA-A091-158BB48D283A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5CB82E-F1A2-461E-8630-DBCD18D72B86}
+	EndGlobalSection
+EndGlobal
